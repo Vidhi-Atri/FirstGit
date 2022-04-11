@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "vidhi",
+      "lastName": " Atri",
+      "email": " vidhi@gmail.com",
+      "mobile": " 9465421463",
+      "salary": " 325456"
+    },
+    {
+      "id": 3,
+      "firstName": "priya",
+      "lastName": "garg",
+      "email": "priya@gmail.com",
+      "mobile": "9455545596",
+      "salary": "50000"
+    },
+    {
+      "id": 4,
+      "firstName": "rinkal",
+      "lastName": "bhiana",
+      "email": "rinkal@gmail.com",
+      "mobile": "9455214452",
+      "salary": "40000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
